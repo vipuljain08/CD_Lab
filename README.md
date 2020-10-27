@@ -12,3 +12,5 @@
 [5. FIRST](https://github.com/vipuljain08/CD_Lab/blob/master/Program5.c)
 
 [6. Left Recursion](https://github.com/vipuljain08/CD_Lab/blob/master/Program6.c)
+
+[7. FOLLOW](https://github.com/vipuljain08/CD_Lab/blob/master/Follow.c)
