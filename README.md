@@ -8,3 +8,5 @@
 [3. WAP to convert infix expression to prefix expression.](https://github.com/vipuljain08/CD_Lab/blob/master/Program3.c)
 
 [4. WAP to find the no. of tokens and list them according to their category in an expression.](https://github.com/vipuljain08/CD_Lab/blob/master/Program4.c)
+
+[5. ](https://github.com/vipuljain08/CD_Lab/blob/master/Program5.c)
